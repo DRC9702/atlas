@@ -12,16 +12,16 @@
     "proj4": "2.4.3",
     "jasmine-jsreporter": "^0.1.2",
     "layer-selector": "agrc-layer-selector#4.x",
+    "dart-board": "dart-board#find-address",
     "map-tools": "agrc-map-tools#map-view"
   },
   "resolutions": {
     "esri": "~4.3",
-    "dgrid": "0.3.17/esri-3.20.0",
     "xstyle": "0.3.2",
     "dojo": "v1.12.1/esri-3.20.0",
     "dojox": "v1.12.1/esri-3.20.0",
     "dijit": "v1.12.1/esri-3.20.0",
-    "dstore": "~1.0.3 || ~1.1.1",
-    "util": "v1.12.1/esri-3.20.0"
+    "dgrid": "v1.1.0/esri-3.20.0",
+    "dstore": "1.1.1"
   }
 }
