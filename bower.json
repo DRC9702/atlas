@@ -13,7 +13,8 @@
     "jasmine-jsreporter": "^0.1.2",
     "layer-selector": "agrc-layer-selector#4.x",
     "dart-board": "dart-board#find-address",
-    "map-tools": "agrc-map-tools#map-view"
+    "map-tools": "agrc-map-tools#map-view",
+    "sherlock": "agrc-sherlock#4.x"
   },
   "resolutions": {
     "esri": "~4.3",
@@ -22,6 +23,7 @@
     "dojox": "v1.12.1/esri-3.20.0",
     "dijit": "v1.12.1/esri-3.20.0",
     "dgrid": "v1.1.0/esri-3.20.0",
-    "dstore": "1.1.1"
+    "dstore": "1.1.1",
+    "spinjs": "~2.3.2"
   }
 }

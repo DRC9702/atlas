@@ -78,7 +78,8 @@ define([
             municipalities: 'SGID10.Boundaries.Municipalities',
             landOwnership: 'SGID10.Cadastre.LandOwnership',
             nationalGrid: 'SGID10.Indices.NationalGrid',
-            dem: 'SGID10.RASTER.DEM_10METER'
+            dem: 'SGID10.RASTER.DEM_10METER',
+            gnis: 'SGID10.LOCATION.PlaceNamesGNIS2010'
         }
     };
 
