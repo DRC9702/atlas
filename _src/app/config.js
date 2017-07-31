@@ -18,9 +18,6 @@ define([
     esriConfig.request.corsEnabledServers.push('discover.agrc.utah.gov');
 
     window.AGRC = {
-        // errorLogger: ijit.modules.ErrorLogger
-        errorLogger: null,
-
         // app: app.App
         //      global reference to App
         app: null,
